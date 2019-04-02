@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The Moon Landing is Fake
 Use the left arrow to go back!
